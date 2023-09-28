@@ -3,4 +3,4 @@ As the project Founder, I am committed to maintaining the confidentiality and se
 
 **It's important to note that this project is registered and holds all the necessary legal copyrights to protect its intellectual property.**
 
-so for now i am attaching the figma files for our future aspects and UI/UX design for our Project!!!
+so as of now my team **NUKELANCERS** is attaching the figma files for our future aspects and UI/UX design for our Project under Open innovation domain in jecrc hackathon 2023.
